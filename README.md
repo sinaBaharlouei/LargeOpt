@@ -10,5 +10,8 @@ Slides, Codes and Resources for Large-scale Optimization and Its Applications in
 [Robust PCA](https://arxiv.org/abs/0912.3599)
 * An awesome reference for the application of sparsity in statistical learning:
 [Statistical Learning with Sparsity (The Lasso and Generalizations)](https://web.stanford.edu/~hastie/StatLearnSparsity_files/SLS.pdf)
-
+* Netflix Prize Problem:
+[The Netflix Prize and Singular Value Decomposition](https://pantelis.github.io/cs301/docs/common/lectures/recommenders/netflix)
+* Optimization Algorithms for Big Data (Block Coordinate Descent, ADMM):
+[A Unified Algorithmic Framework for Block-Structured Optimization Involving Big Data](https://arxiv.org/pdf/1511.02746.pdf)
 
