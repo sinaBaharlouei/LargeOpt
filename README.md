@@ -16,3 +16,12 @@ Slides, Codes and Resources for Large-scale Optimization and Its Applications in
 * Optimization Algorithms for Big Data (Block Coordinate Descent, ADMM):
 [A Unified Algorithmic Framework for Block-Structured Optimization Involving Big Data](https://arxiv.org/pdf/1511.02746.pdf)
 
+## Resources for Probability, Statistics, and Statistical Learning Theory
+
+* Theory of Probability (Rigorous Mathematical Introduction to Probability): [Lecture Notes by Professor Heilman]()
+* Theory of Point Estimation: See chapters 1-5 [Book](https://www.dcpehvpm.org/E-Content/Stat/E%20L%20Lehaman.pdf)
+* Hypothesis Testing: A detailed book for deep understanding of hypothesis testing [Book](https://sites.stat.washington.edu/jaw/COURSES/580s/582/HO/Lehmann_and_Romano-TestingStatisticalHypotheses.pdf)
+* Introduction to Statistical Inference, Hypothesis Testing, and Regression (A summary of above references): [Statistical Inference](http://home.ustc.edu.cn/~zt001062/MaStmaterials/George%20Casella&Roger%20L.Berger--Statistical%20Inference.pdf) 
+* An Introduction to Statistical Learning: A beginner yet **essential** book to enter the statistical learning universe [Book](https://www.statlearning.com/)
+* Modern Topics of Statistics (especially for high-dimensional setting): [High Dimensional Probability](math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html#)
+  
